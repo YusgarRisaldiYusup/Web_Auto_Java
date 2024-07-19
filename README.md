@@ -25,7 +25,7 @@ Proyek ini mengimplementasikan pengujian otomatis untuk aplikasi web menggunakan
 - `src/test/java/Step`: Berisi kelas Step Definitions untuk implementasi langkah-langkah pengujian.
 
 ## Hasil running 
-- ![Hasil_running1](https://github.com/YusgarRisaldiYusup/Api_Web_Automation/blob/main/idea64_Ljkaguoa9X.png)
+- ![Hasil_running1](https://github.com/YusgarRisaldiYusup/Web_Auto_selenium_Java/blob/main/msedge_oBPEcW8iyz.png)
 
 
 
